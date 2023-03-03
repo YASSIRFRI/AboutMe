@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student based in Morocco Flag: Morocco on OpenMoji 14.0, I am passionate about Web development and Cybersecurity.
+I'm a computer science student :computer: based in Morocco 🇲🇦, I am passionate about Web development and Cybersecurity:lock_with_ink_pen:.
 
 
 ## 🌐 Socials:
